@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Bangladesh Sangbad mela</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!--<string name="name">Home</string>-->
+
+    <string name="home">হোম</string>
+    <string name="jatio">জাতীয়</string>
+    <string name="rajniti">রাজনীতি</string>
+    <string name="orthoniti">অর্থনীতি</string>
+    <string name="kheladhula">খেলাধুলা</string>
+    <string name="rajdhani">রাজধানী</string>
+    <string name="law">আইন-আদালত</string>
+    <string name="bigan">বিজ্ঞান ও টেক</string>
+    <string name="binodon">বিনোদন ংস্কৃতি</string>
+    <string name="bishosongbad">বিশ্ব সংবাদ</string>
+    <string name="ekslip"> এক স্লিপ</string>
+    <string name="saradesh">সারাদেশ</string>
+    <string name="sikshaongon">শিক্ষাঙ্গন</string>
+    <string name="media">মিডিয়া </string>
+    <string name="health">স্বাস্থ্য </string>
+    <string name="football">বিশ্বকাপ ফুটবল</string>
+    <string name="corporate">কর্পোরেট নিউজ </string>
+
+
+    <string name="title_activity_webpage_loader">WebpageLoader</string>
+
+    <string name="yes">হাঁ</string>
+    <string name="no">না</string>
+
+    <string name="confirmation">অনুমোদন</string>
+    <string name="confirmation_msg">আপনার সংবাদপত্র পড়তে ইন্টারনেট সংযোগ প্রয়োজন ! আপনি কি ইন্টারনেট সংযোগ চালু  করতে চান </string>
+
+
+</resources>
